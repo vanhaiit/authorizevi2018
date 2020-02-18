@@ -1,5 +1,5 @@
 {
-  "name": "authorvi2018",
+  "name": "authorizevi2018",
   "version": "1.0.0",
   "description": "ScrollSpy effect for website.",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "dev": "webpack",
     "build": "webpack"
   },
-  "repository": "git+ssh://git@github.com/vanhaiit/authorvi2018.git",
+  "repository": "git+ssh://git@github.com/vanhaiit/authorizevi2018.git",
   "keywords": [
     "ScrollSpy",
     "Javascript",
@@ -16,9 +16,9 @@
   "author": "VanhaiIT <vanhaiit2018@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vanhaiit/authorvi2018/issues"
+    "url": "https://github.com/vanhaiit/authorizevi2018/issues"
   },
-  "homepage": "https://github.com/vanhaiit/authorvi2018#readme",
+  "homepage": "https://github.com/vanhaiit/authorizevi2018#readme",
   "dependencies": {
     "path": "^0.12.7",
     "webpack": "^4.41.6",
